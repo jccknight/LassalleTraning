@@ -1,0 +1,18 @@
+//////////////////////////////////////////////////////////////////////////
+09:05:52.346: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:05:52.532: Receive Select.req.
+FF FF 00 00 00 01 00 00 00 00 
+09:05:52.532: Send Select.rsp.
+FF FF 00 00 00 02 00 00 00 00 
+09:06:52.549: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+09:06:52.549: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+09:07:09.674: Send Linktest.req.
+FF FF 00 00 00 05 18 CB E0 65 
+09:07:09.675: Receive Linktest.rsp.
+FF FF 00 00 00 06 18 CB E0 65 
+09:07:21.380: Receive Separate.req.
+FF FF 00 00 00 09 00 00 00 00 
+09:07:21.380: Remote Client Disconnected!

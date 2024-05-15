@@ -1,0 +1,16 @@
+D:\project\Lassalle\Lassalle\bin\Debug\Lassalle.exe.config
+D:\project\Lassalle\Lassalle\bin\Debug\Lassalle.exe
+D:\project\Lassalle\Lassalle\bin\Debug\Lassalle.pdb
+D:\project\Lassalle\Lassalle\bin\Debug\Lassalle.Flow.DLL
+D:\project\Lassalle\Lassalle\bin\Debug\Lassalle.Flow.Layout.DLL
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.csproj.AssemblyReference.cache
+D:\project\Lassalle\Lassalle\obj\Debug\Interop.QSACTIVEXLib.dll
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.csproj.ResolveComReference.cache
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.Form1.resources
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.Properties.Resources.resources
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.csproj.GenerateResource.cache
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.exe.licenses
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.csproj.CoreCompileInputs.cache
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.csproj.Up2Date
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.exe
+D:\project\Lassalle\Lassalle\obj\Debug\Lassalle.pdb
