@@ -1,0 +1,264 @@
+//////////////////////////////////////////////////////////////////////////
+17:55:03.232: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+//////////////////////////////////////////////////////////////////////////
+17:55:57.301: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+17:55:57.301: Send Select.req.
+FF FF 00 00 00 01 07 09 40 2D 
+17:55:57.330: Receive Select.rsp.
+FF FF 00 00 00 02 07 09 40 2D 
+17:55:57.842: Send Separate.req.
+FF FF 00 00 00 09 07 09 40 2E 
+//////////////////////////////////////////////////////////////////////////
+17:56:20.878: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+17:56:20.879: Send Select.req.
+FF FF 00 00 00 01 07 09 9C 57 
+17:56:20.879: Receive Select.rsp.
+FF FF 00 00 00 02 07 09 9C 57 
+17:56:25.920: Logic error when receiving message!
+17:56:25.920: Reset state machine!
+17:56:25.920: Send Separate.req.
+FF FF 00 00 00 09 07 09 9C 58 
+//////////////////////////////////////////////////////////////////////////
+17:56:29.549: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+17:56:29.549: Send Select.req.
+FF FF 00 00 00 01 07 09 BE 27 
+17:56:29.550: Receive Select.rsp.
+FF FF 00 00 00 02 07 09 BE 27 
+17:56:37.544: Send Separate.req.
+FF FF 00 00 00 09 07 09 BE 28 
+//////////////////////////////////////////////////////////////////////////
+17:56:46.649: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+17:56:46.649: Send Select.req.
+FF FF 00 00 00 01 07 0A 00 FD 
+17:56:46.651: Receive Select.rsp.
+FF FF 00 00 00 02 07 0A 00 FD 
+17:56:49.993: Send Separate.req.
+FF FF 00 00 00 09 07 0A 00 FE 
+//////////////////////////////////////////////////////////////////////////
+17:58:17.162: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+17:58:17.162: Send Select.req.
+FF FF 00 00 00 01 07 0B 62 90 
+17:58:17.163: Receive Select.rsp.
+FF FF 00 00 00 02 07 0B 62 90 
+17:58:42.979: Receive Separate.req.
+FF FF 00 00 00 09 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+18:10:34.510: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+18:10:34.510: Send Select.req.
+FF FF 00 00 00 01 07 16 A2 D0 
+18:10:34.511: Receive Select.rsp.
+FF FF 00 00 00 02 07 16 A2 D0 
+18:10:36.968: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+18:10:36.968: Send S1F1(118923985).
+00 00 81 01 00 00 07 16 A2 D1 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+18:10:36.983: Illegal SECSII Format ...
+18:10:37.022: Receive Data Message.
+00 00 01 02 00 00 07 16 A2 D1 
+18:10:37.022: Receive S1F2(118923985).
+00 00 01 02 00 00 07 16 A2 D1 
+S1F2
+.
+Program takes      0 seconds to log this message.
+18:10:37.030: Illegal SECSII Format ...
+18:10:56.512: Receive Separate.req.
+FF FF 00 00 00 09 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+18:11:03.724: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+18:11:03.724: Send Select.req.
+FF FF 00 00 00 01 07 17 14 F3 
+18:11:03.725: Receive Select.rsp.
+FF FF 00 00 00 02 07 17 14 F3 
+18:11:05.188: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+18:11:05.188: Send S1F1(118953204).
+00 00 81 01 00 00 07 17 14 F4 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+18:11:05.190: Receive Data Message.
+00 00 01 02 00 00 07 17 14 F4 
+18:11:05.190: Receive S1F2(118953204).
+00 00 01 02 00 00 07 17 14 F4 
+S1F2
+.
+Program takes      0 seconds to log this message.
+18:11:05.203: Illegal SECSII Format ...
+18:11:05.203: Illegal SECSII Format ...
+18:12:03.738: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:12:03.738: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:12:20.116: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 F5 
+18:12:20.116: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 F5 
+18:13:03.745: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:13:03.745: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:13:35.480: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 F6 
+18:13:35.480: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 F6 
+18:14:03.748: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:14:03.748: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:14:51.164: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 F7 
+18:14:51.164: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 F7 
+18:15:03.749: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:15:03.749: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:16:03.765: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:16:03.765: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:16:06.891: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 F8 
+18:16:06.891: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 F8 
+18:17:03.771: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:17:03.771: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:17:22.363: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 F9 
+18:17:22.363: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 F9 
+18:18:03.778: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:18:03.778: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:18:38.067: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 FA 
+18:18:38.067: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 FA 
+18:19:03.785: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:19:03.785: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:19:53.532: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 FB 
+18:19:53.532: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 FB 
+18:20:03.797: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:20:03.797: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:21:03.807: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:21:03.807: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:21:08.961: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 FC 
+18:21:08.961: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 FC 
+18:22:03.817: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:22:03.817: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:22:23.982: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 FD 
+18:22:23.982: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 FD 
+18:23:03.821: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:23:03.821: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:23:39.148: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 FE 
+18:23:39.148: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 FE 
+18:24:03.835: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:24:03.835: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:24:54.028: Send Linktest.req.
+FF FF 00 00 00 05 07 17 14 FF 
+18:24:54.028: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 14 FF 
+18:25:03.838: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:25:03.838: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:26:03.842: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:26:03.842: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:26:07.771: Send Linktest.req.
+FF FF 00 00 00 05 07 17 15 00 
+18:26:07.771: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 15 00 
+18:27:03.846: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:27:03.846: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:27:21.627: Send Linktest.req.
+FF FF 00 00 00 05 07 17 15 01 
+18:27:21.627: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 15 01 
+18:28:03.855: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:28:03.855: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:28:35.480: Send Linktest.req.
+FF FF 00 00 00 05 07 17 15 02 
+18:28:35.480: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 15 02 
+18:29:03.864: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:29:03.864: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:29:49.263: Send Linktest.req.
+FF FF 00 00 00 05 07 17 15 03 
+18:29:49.263: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 15 03 
+18:30:03.878: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:30:03.878: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:31:03.085: Send Linktest.req.
+FF FF 00 00 00 05 07 17 15 04 
+18:31:03.085: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 15 04 
+18:31:03.997: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:31:03.997: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:32:04.013: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:32:04.013: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:32:16.980: Send Linktest.req.
+FF FF 00 00 00 05 07 17 15 05 
+18:32:16.980: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 15 05 
+18:33:04.029: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:33:04.029: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:33:30.923: Send Linktest.req.
+FF FF 00 00 00 05 07 17 15 06 
+18:33:30.923: Receive Linktest.rsp.
+FF FF 00 00 00 06 07 17 15 06 
+18:34:04.037: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+18:34:04.037: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+18:34:04.704: Receive Separate.req.
+FF FF 00 00 00 09 00 00 00 00 
