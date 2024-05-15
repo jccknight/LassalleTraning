@@ -1,0 +1,1145 @@
+//////////////////////////////////////////////////////////////////////////
+09:41:14.309: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:41:22.474: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:41:33.908: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:41:33.909: Send Select.req.
+FF FF 00 00 00 01 03 3A 40 43 
+09:41:33.916: Receive Select.rsp.
+FF FF 00 00 00 02 03 3A 40 43 
+09:41:36.100: Receive Separate.req.
+FF FF 00 00 00 09 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+09:44:59.272: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:44:59.272: Send Select.req.
+FF FF 00 00 00 01 03 3D CB DB 
+09:44:59.276: Receive Select.rsp.
+FF FF 00 00 00 02 03 3D CB DB 
+09:45:04.474: Receive Separate.req.
+FF FF 00 00 00 09 00 00 00 00 
+09:45:16.257: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:45:16.258: Send Select.req.
+FF FF 00 00 00 01 03 3D CB DC 
+09:45:16.261: Receive Select.rsp.
+FF FF 00 00 00 02 03 3D CB DC 
+09:45:21.725: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+09:45:21.725: Send S1F1(54381533).
+00 00 81 01 00 00 03 3D CB DD 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+09:45:21.726: Receive Data Message.
+00 00 81 02 00 00 03 3D CB DD 
+09:45:21.726: Receive S1F2(54381533).
+00 00 81 02 00 00 03 3D CB DD   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+09:45:21.740: Illegal SECSII Format ...
+09:45:24.762: Receive Separate.req.
+FF FF 00 00 00 09 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+09:55:46.214: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:55:46.215: Send Select.req.
+FF FF 00 00 00 01 03 47 AA 39 
+09:55:46.217: Receive Select.rsp.
+FF FF 00 00 00 02 03 47 AA 39 
+09:55:51.546: Logic error when receiving message!
+09:55:51.546: Reset state machine!
+09:55:51.546: Send Separate.req.
+FF FF 00 00 00 09 03 47 AA 3A 
+09:55:58.949: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:55:58.949: Send Select.req.
+FF FF 00 00 00 01 03 47 AA 3B 
+09:55:58.952: Receive Select.rsp.
+FF FF 00 00 00 02 03 47 AA 3B 
+09:56:01.212: Send Separate.req.
+FF FF 00 00 00 09 03 47 AA 3C 
+09:56:07.423: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:56:07.423: Send Select.req.
+FF FF 00 00 00 01 03 47 AA 3D 
+09:56:07.427: Receive Select.rsp.
+FF FF 00 00 00 02 03 47 AA 3D 
+09:56:09.230: Receive Separate.req.
+FF FF 00 00 00 09 00 00 00 00 
+09:56:20.819: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+09:56:20.819: Send Select.req.
+FF FF 00 00 00 01 03 47 AA 3E 
+09:56:20.822: Receive Select.rsp.
+FF FF 00 00 00 02 03 47 AA 3E 
+09:56:22.199: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+09:56:22.199: Send S1F1(55028287).
+00 00 81 01 00 00 03 47 AA 3F 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+09:56:22.203: Receive Data Message.
+00 00 81 02 00 00 03 47 AA 3F 
+09:56:22.203: Receive S1F2(55028287).
+00 00 81 02 00 00 03 47 AA 3F   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+09:56:22.215: Illegal SECSII Format ...
+09:56:26.618: Logic error when receiving message!
+09:56:26.618: Reset state machine!
+09:56:26.618: Send Separate.req.
+FF FF 00 00 00 09 03 47 AA 40 
+//////////////////////////////////////////////////////////////////////////
+10:07:56.631: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:07:56.632: Send Select.req.
+FF FF 00 00 00 01 03 52 CD 6B 
+10:07:56.636: Receive Select.rsp.
+FF FF 00 00 00 02 03 52 CD 6B 
+10:08:06.359: Receive Data Message.
+00 00 81 01 00 00 00 00 00 02 
+10:08:06.359: Receive S1F1(2).
+00 00 81 01 00 00 00 00 00 02 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:08:06.364: Illegal SECSII Format ...
+10:08:56.646: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:08:56.646: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:09:16.178: Send Linktest.req.
+FF FF 00 00 00 05 03 52 CD 6C 
+10:09:16.178: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 52 CD 6C 
+//////////////////////////////////////////////////////////////////////////
+10:09:34.618: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:09:34.619: Send Select.req.
+FF FF 00 00 00 01 03 54 50 52 
+10:09:34.622: Receive Select.rsp.
+FF FF 00 00 00 02 03 54 50 52 
+10:09:40.241: Receive Data Message.
+00 00 81 01 00 00 00 00 00 03 
+10:09:40.241: Receive S1F1(3).
+00 00 81 01 00 00 00 00 00 03 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:09:40.250: Illegal SECSII Format ...
+10:10:34.630: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:10:34.630: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:10:51.284: Send Linktest.req.
+FF FF 00 00 00 05 03 54 50 53 
+10:10:51.284: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 54 50 53 
+10:11:34.646: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:11:34.646: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+10:11:54.679: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:11:54.680: Send Select.req.
+FF FF 00 00 00 01 03 56 75 07 
+10:11:59.694: T6 Timeout.
+10:12:04.961: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:12:04.961: Send Select.req.
+FF FF 00 00 00 01 03 56 75 08 
+10:12:10.270: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:12:10.270: Send Select.req.
+FF FF 00 00 00 01 03 56 75 09 
+10:12:10.276: Receive Select.rsp.
+FF FF 00 00 00 02 03 56 75 09 
+10:12:12.825: Receive Data Message.
+00 00 81 01 00 00 00 00 00 05 
+10:12:12.825: Receive S1F1(5).
+00 00 81 01 00 00 00 00 00 05 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:12:12.836: Illegal SECSII Format ...
+10:12:43.398: Receive Data Message.
+00 00 81 03 00 00 00 00 00 06 
+10:12:43.398: Receive S1F3(6).
+00 00 81 03 00 00 00 00 00 06   01 3B B1 04 00 00 13 8A B1 04   
+00 00 13 8B B1 04 00 00 13 8C   B1 04 00 00 13 8D B1 04 00 00   
+13 8E B1 04 00 00 13 8F B1 04   00 00 13 90 B1 04 00 00 13 90   
+B1 04 00 00 14 51 B1 04 00 00   14 52 B1 04 00 00 14 53 B1 04   
+00 00 14 54 B1 04 00 00 14 55   B1 04 00 00 14 56 B1 04 00 00   
+14 57 B1 04 00 00 14 58 B1 04   00 00 14 59 B1 04 00 00 14 5A   
+B1 04 00 00 14 5B B1 04 00 00   14 5C B1 04 00 00 14 5D B1 04   
+00 00 14 5E B1 04 00 00 14 5F   B1 04 00 00 14 60 B1 04 00 00   
+14 61 B1 04 00 00 14 62 B1 04   00 00 14 63 B1 04 00 00 14 64   
+B1 04 00 00 14 65 B1 04 00 00   14 66 B1 04 00 00 14 67 B1 04   
+00 00 14 68 B1 04 00 00 14 69   B1 04 00 00 14 6A B1 04 00 00   
+14 6B B1 04 00 00 14 6C B1 04   00 00 14 6D B1 04 00 00 14 6E   
+B1 04 00 00 14 6F B1 04 00 00   14 70 B1 04 00 00 14 71 B1 04   
+00 00 14 72 B1 04 00 00 14 73   B1 04 00 00 14 74 B1 04 00 00   
+14 75 B1 04 00 00 14 76 B1 04   00 00 15 19 B1 04 00 00 15 1A   
+B1 04 00 00 15 1B B1 04 00 00   15 1C B1 04 00 00 15 1D B1 04   
+00 00 15 1E B1 04 00 00 15 1F   B1 04 00 00 15 E1 B1 04 00 00   
+15 E2 B1 04 00 00 15 E3 B1 04   00 00 15 E4 B1 04 00 00 15 E5   
+B1 04 00 00 15 E6 
+S1F3 W
+<L[59]
+  <U4[1] 5002>
+  <U4[1] 5003>
+  <U4[1] 5004>
+  <U4[1] 5005>
+  <U4[1] 5006>
+  <U4[1] 5007>
+  <U4[1] 5008>
+  <U4[1] 5008>
+  <U4[1] 5201>
+  <U4[1] 5202>
+  <U4[1] 5203>
+  <U4[1] 5204>
+  <U4[1] 5205>
+  <U4[1] 5206>
+  <U4[1] 5207>
+  <U4[1] 5208>
+  <U4[1] 5209>
+  <U4[1] 5210>
+  <U4[1] 5211>
+  <U4[1] 5212>
+  <U4[1] 5213>
+  <U4[1] 5214>
+  <U4[1] 5215>
+  <U4[1] 5216>
+  <U4[1] 5217>
+  <U4[1] 5218>
+  <U4[1] 5219>
+  <U4[1] 5220>
+  <U4[1] 5221>
+  <U4[1] 5222>
+  <U4[1] 5223>
+  <U4[1] 5224>
+  <U4[1] 5225>
+  <U4[1] 5226>
+  <U4[1] 5227>
+  <U4[1] 5228>
+  <U4[1] 5229>
+  <U4[1] 5230>
+  <U4[1] 5231>
+  <U4[1] 5232>
+  <U4[1] 5233>
+  <U4[1] 5234>
+  <U4[1] 5235>
+  <U4[1] 5236>
+  <U4[1] 5237>
+  <U4[1] 5238>
+  <U4[1] 5401>
+  <U4[1] 5402>
+  <U4[1] 5403>
+  <U4[1] 5404>
+  <U4[1] 5405>
+  <U4[1] 5406>
+  <U4[1] 5407>
+  <U4[1] 5601>
+  <U4[1] 5602>
+  <U4[1] 5603>
+  <U4[1] 5604>
+  <U4[1] 5605>
+  <U4[1] 5606>
+>
+.
+Program takes      0 seconds to log this message.
+10:14:02.419: Logic error when receiving message!
+10:14:02.419: Reset state machine!
+10:14:02.419: Send Separate.req.
+FF FF 00 00 00 09 03 56 75 0A 
+10:14:30.748: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:14:30.748: Send Select.req.
+FF FF 00 00 00 01 03 56 75 0B 
+10:14:30.755: Receive Select.rsp.
+FF FF 00 00 00 02 03 56 75 0B 
+10:14:53.439: Receive Data Message.
+00 00 82 29 00 00 00 00 00 07 
+10:14:53.439: Receive S2F41(7).
+00 00 82 29 00 00 00 00 00 07   01 02 41 09 50 4F 52 54 5F 54   
+59 50 45 01 02 01 02 41 04 50   6F 72 74 A5 01 01 01 02 41 04   
+54 79 70 65 41 06 4C 6F 61 64   65 72 
+S2F41 W
+<L[2]
+  <A[9] "PORT_TYPE">
+  <L[2]
+    <L[2]
+      <A[4] "Port">
+      <U1[1] 1>
+    >
+    <L[2]
+      <A[4] "Type">
+      <A[6] "Loader">
+    >
+  >
+>
+.
+Program takes      0 seconds to log this message.
+10:15:30.764: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:15:30.764: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:16:03.035: Send Linktest.req.
+FF FF 00 00 00 05 03 56 75 0C 
+10:16:03.035: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 56 75 0C 
+10:16:30.771: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:16:30.771: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+10:26:18.809: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:26:18.809: Send Select.req.
+FF FF 00 00 00 01 03 63 A3 4B 
+10:26:18.841: Receive Select.rsp.
+FF FF 00 00 00 02 03 63 A3 4B 
+10:26:29.996: Receive Data Message.
+00 00 81 0B 00 00 00 00 00 08 
+10:26:29.996: Receive S1F11(8).
+00 00 81 0B 00 00 00 00 00 08   01 3B B1 04 00 00 13 8A B1 04   
+00 00 13 8B B1 04 00 00 13 8C   B1 04 00 00 13 8D B1 04 00 00   
+13 8E B1 04 00 00 13 8F B1 04   00 00 13 90 B1 04 00 00 13 90   
+B1 04 00 00 14 51 B1 04 00 00   14 52 B1 04 00 00 14 53 B1 04   
+00 00 14 54 B1 04 00 00 14 55   B1 04 00 00 14 56 B1 04 00 00   
+14 57 B1 04 00 00 14 58 B1 04   00 00 14 59 B1 04 00 00 14 5A   
+B1 04 00 00 14 5B B1 04 00 00   14 5C B1 04 00 00 14 5D B1 04   
+00 00 14 5E B1 04 00 00 14 5F   B1 04 00 00 14 60 B1 04 00 00   
+14 61 B1 04 00 00 14 62 B1 04   00 00 14 63 B1 04 00 00 14 64   
+B1 04 00 00 14 65 B1 04 00 00   14 66 B1 04 00 00 14 67 B1 04   
+00 00 14 68 B1 04 00 00 14 69   B1 04 00 00 14 6A B1 04 00 00   
+14 6B B1 04 00 00 14 6C B1 04   00 00 14 6D B1 04 00 00 14 6E   
+B1 04 00 00 14 6F B1 04 00 00   14 70 B1 04 00 00 14 71 B1 04   
+00 00 14 72 B1 04 00 00 14 73   B1 04 00 00 14 74 B1 04 00 00   
+14 75 B1 04 00 00 14 76 B1 04   00 00 15 19 B1 04 00 00 15 1A   
+B1 04 00 00 15 1B B1 04 00 00   15 1C B1 04 00 00 15 1D B1 04   
+00 00 15 1E B1 04 00 00 15 1F   B1 04 00 00 15 E1 B1 04 00 00   
+15 E2 B1 04 00 00 15 E3 B1 04   00 00 15 E4 B1 04 00 00 15 E5   
+B1 04 00 00 15 E6 
+S1F11 W
+<L[59]
+  <U4[1] 5002>
+  <U4[1] 5003>
+  <U4[1] 5004>
+  <U4[1] 5005>
+  <U4[1] 5006>
+  <U4[1] 5007>
+  <U4[1] 5008>
+  <U4[1] 5008>
+  <U4[1] 5201>
+  <U4[1] 5202>
+  <U4[1] 5203>
+  <U4[1] 5204>
+  <U4[1] 5205>
+  <U4[1] 5206>
+  <U4[1] 5207>
+  <U4[1] 5208>
+  <U4[1] 5209>
+  <U4[1] 5210>
+  <U4[1] 5211>
+  <U4[1] 5212>
+  <U4[1] 5213>
+  <U4[1] 5214>
+  <U4[1] 5215>
+  <U4[1] 5216>
+  <U4[1] 5217>
+  <U4[1] 5218>
+  <U4[1] 5219>
+  <U4[1] 5220>
+  <U4[1] 5221>
+  <U4[1] 5222>
+  <U4[1] 5223>
+  <U4[1] 5224>
+  <U4[1] 5225>
+  <U4[1] 5226>
+  <U4[1] 5227>
+  <U4[1] 5228>
+  <U4[1] 5229>
+  <U4[1] 5230>
+  <U4[1] 5231>
+  <U4[1] 5232>
+  <U4[1] 5233>
+  <U4[1] 5234>
+  <U4[1] 5235>
+  <U4[1] 5236>
+  <U4[1] 5237>
+  <U4[1] 5238>
+  <U4[1] 5401>
+  <U4[1] 5402>
+  <U4[1] 5403>
+  <U4[1] 5404>
+  <U4[1] 5405>
+  <U4[1] 5406>
+  <U4[1] 5407>
+  <U4[1] 5601>
+  <U4[1] 5602>
+  <U4[1] 5603>
+  <U4[1] 5604>
+  <U4[1] 5605>
+  <U4[1] 5606>
+>
+.
+Program takes      0 seconds to log this message.
+10:26:40.678: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:26:40.678: Send S1F1(56861516).
+00 00 81 01 00 00 03 63 A3 4C 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:26:40.680: Receive Data Message.
+00 00 81 02 00 00 03 63 A3 4C 
+10:26:40.680: Receive S1F2(56861516).
+00 00 81 02 00 00 03 63 A3 4C   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:26:40.694: Illegal SECSII Format ...
+10:27:18.813: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:27:18.813: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+10:27:49.850: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:27:49.851: Send Select.req.
+FF FF 00 00 00 01 03 65 06 F2 
+10:27:54.858: T6 Timeout.
+10:28:09.546: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:28:09.546: Send Select.req.
+FF FF 00 00 00 01 03 65 06 F3 
+10:28:14.551: T6 Timeout.
+10:28:20.458: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:28:20.458: Send Select.req.
+FF FF 00 00 00 01 03 65 06 F4 
+10:28:20.465: Receive Select.rsp.
+FF FF 00 00 00 02 03 65 06 F4 
+10:28:22.237: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:28:22.237: Send S1F1(56952565).
+00 00 81 01 00 00 03 65 06 F5 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:28:22.238: Receive Data Message.
+00 00 81 02 00 00 03 65 06 F5 
+10:28:22.238: Receive S1F2(56952565).
+00 00 81 02 00 00 03 65 06 F5   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:28:22.253: Illegal SECSII Format ...
+10:28:46.204: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:28:46.204: Send S1F1(56952566).
+00 00 81 01 00 00 03 65 06 F6 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:28:46.205: Receive Data Message.
+00 00 81 02 00 00 03 65 06 F6 
+10:28:46.205: Receive S1F2(56952566).
+00 00 81 02 00 00 03 65 06 F6   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:28:46.220: Illegal SECSII Format ...
+10:28:52.181: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:28:52.181: Send S1F1(56952567).
+00 00 81 01 00 00 03 65 06 F7 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:28:52.182: Receive Data Message.
+00 00 81 02 00 00 03 65 06 F7 
+10:28:52.182: Receive S1F2(56952567).
+00 00 81 02 00 00 03 65 06 F7   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:28:52.197: Illegal SECSII Format ...
+10:31:24.585: Logic error when receiving message!
+10:31:24.585: Reset state machine!
+10:31:24.585: Send Separate.req.
+FF FF 00 00 00 09 03 65 06 F8 
+//////////////////////////////////////////////////////////////////////////
+10:35:13.281: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:35:13.282: Send Select.req.
+FF FF 00 00 00 01 03 6B CD 04 
+10:35:13.285: Receive Select.rsp.
+FF FF 00 00 00 02 03 6B CD 04 
+10:35:15.526: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:35:15.526: Send S1F1(57396485).
+00 00 81 01 00 00 03 6B CD 05 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:35:15.529: Receive Data Message.
+00 00 81 02 00 00 03 6B CD 05 
+10:35:15.529: Receive S1F2(57396485).
+00 00 81 02 00 00 03 6B CD 05   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:35:15.542: Illegal SECSII Format ...
+10:36:13.286: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:36:13.286: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:36:32.784: Send Linktest.req.
+FF FF 00 00 00 05 03 6B CD 06 
+10:36:32.784: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 6B CD 06 
+10:37:13.300: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:37:13.300: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:37:48.081: Send Linktest.req.
+FF FF 00 00 00 05 03 6B CD 07 
+10:37:48.081: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 6B CD 07 
+10:38:13.304: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:38:13.304: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+10:38:34.285: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:38:34.285: Send Select.req.
+FF FF 00 00 00 01 03 6E DC D4 
+10:38:39.287: T6 Timeout.
+10:38:45.469: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:38:45.469: Send Select.req.
+FF FF 00 00 00 01 03 6E DC D5 
+10:38:50.321: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:38:50.322: Send Select.req.
+FF FF 00 00 00 01 03 6E DC D6 
+10:38:50.325: Receive Select.rsp.
+FF FF 00 00 00 02 03 6E DC D6 
+10:38:52.572: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:38:52.572: Send S1F1(57597143).
+00 00 81 01 00 00 03 6E DC D7 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:38:52.573: Receive Data Message.
+00 00 81 02 00 00 03 6E DC D7 
+10:38:52.573: Receive S1F2(57597143).
+00 00 81 02 00 00 03 6E DC D7   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:38:52.593: Illegal SECSII Format ...
+10:39:50.333: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:39:50.333: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:40:12.437: Send Linktest.req.
+FF FF 00 00 00 05 03 6E DC D8 
+10:40:12.437: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 6E DC D8 
+10:40:50.353: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:40:50.353: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:41:28.290: Send Linktest.req.
+FF FF 00 00 00 05 03 6E DC D9 
+10:41:28.290: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 6E DC D9 
+10:41:50.360: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:41:50.360: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:42:43.739: Send Linktest.req.
+FF FF 00 00 00 05 03 6E DC DA 
+10:42:43.739: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 6E DC DA 
+10:42:50.364: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:42:50.364: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:43:50.377: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:43:50.377: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:43:59.233: Send Linktest.req.
+FF FF 00 00 00 05 03 6E DC DB 
+10:43:59.233: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 6E DC DB 
+10:44:50.387: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:44:50.387: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:45:14.681: Send Linktest.req.
+FF FF 00 00 00 05 03 6E DC DC 
+10:45:14.681: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 6E DC DC 
+10:45:50.390: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:45:50.390: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:46:30.005: Send Linktest.req.
+FF FF 00 00 00 05 03 6E DC DD 
+10:46:30.005: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 6E DC DD 
+//////////////////////////////////////////////////////////////////////////
+10:46:54.977: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:46:54.978: Send Select.req.
+FF FF 00 00 00 01 03 76 7F C9 
+10:46:54.984: Receive Select.rsp.
+FF FF 00 00 00 02 03 76 7F C9 
+10:47:02.989: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:47:02.989: Send S1F1(58097610).
+00 00 81 01 00 00 03 76 7F CA 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:47:02.991: Receive Data Message.
+00 00 81 02 00 00 03 76 7F CA 
+10:47:02.991: Receive S1F2(58097610).
+00 00 81 02 00 00 03 76 7F CA   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:47:03.005: Illegal SECSII Format ...
+10:47:12.644: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:47:12.644: Send S1F1(58097611).
+00 00 81 01 00 00 03 76 7F CB 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:47:12.646: Receive Data Message.
+00 00 81 02 00 00 03 76 7F CB 
+10:47:12.646: Receive S1F2(58097611).
+00 00 81 02 00 00 03 76 7F CB   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:47:12.660: Illegal SECSII Format ...
+10:47:54.974: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:47:54.974: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:48:27.810: Send Linktest.req.
+FF FF 00 00 00 05 03 76 7F CC 
+10:48:27.810: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 76 7F CC 
+10:48:54.986: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:48:54.986: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:49:42.903: Send Linktest.req.
+FF FF 00 00 00 05 03 76 7F CD 
+10:49:42.903: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 76 7F CD 
+10:49:54.997: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:49:54.997: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:50:54.999: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:50:54.999: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:50:58.290: Send Linktest.req.
+FF FF 00 00 00 05 03 76 7F CE 
+10:50:58.290: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 76 7F CE 
+10:51:55.003: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:51:55.003: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:52:14.090: Send Linktest.req.
+FF FF 00 00 00 05 03 76 7F CF 
+10:52:14.090: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 76 7F CF 
+10:52:55.006: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:52:55.006: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:53:29.353: Send Linktest.req.
+FF FF 00 00 00 05 03 76 7F D0 
+10:53:29.353: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 76 7F D0 
+10:53:55.010: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:53:55.010: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+10:54:44.985: Send Linktest.req.
+FF FF 00 00 00 05 03 76 7F D1 
+10:54:44.985: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 76 7F D1 
+10:54:55.023: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:54:55.023: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+10:56:00.129: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:56:00.129: Send Select.req.
+FF FF 00 00 00 01 03 7E D2 28 
+10:56:00.136: Receive Select.rsp.
+FF FF 00 00 00 02 03 7E D2 28 
+10:56:01.511: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:56:01.511: Send S1F1(58642985).
+00 00 81 01 00 00 03 7E D2 29 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:56:01.513: Receive Data Message.
+00 00 81 02 00 00 03 7E D2 29 
+10:56:01.513: Receive S1F2(58642985).
+00 00 81 02 00 00 03 7E D2 29   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:56:01.527: Illegal SECSII Format ...
+10:56:11.010: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:56:11.010: Send S1F1(58642986).
+00 00 81 01 00 00 03 7E D2 2A 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:56:11.011: Receive Data Message.
+00 00 81 02 00 00 03 7E D2 2A 
+10:56:11.011: Receive S1F2(58642986).
+00 00 81 02 00 00 03 7E D2 2A   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:56:11.025: Illegal SECSII Format ...
+//////////////////////////////////////////////////////////////////////////
+10:57:02.280: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:57:02.280: Send Select.req.
+FF FF 00 00 00 01 03 7F 89 04 
+10:57:02.286: Receive Select.rsp.
+FF FF 00 00 00 02 03 7F 89 04 
+10:57:04.339: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:57:04.339: Send S1F1(58689797).
+00 00 81 01 00 00 03 7F 89 05 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:57:04.341: Receive Data Message.
+00 00 81 02 00 00 03 7F 89 05 
+10:57:04.341: Receive S1F2(58689797).
+00 00 81 02 00 00 03 7F 89 05   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:57:04.355: Illegal SECSII Format ...
+//////////////////////////////////////////////////////////////////////////
+10:57:53.120: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:57:53.120: Send Select.req.
+FF FF 00 00 00 01 03 80 85 18 
+10:57:58.127: T6 Timeout.
+10:58:05.763: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:58:05.763: Send Select.req.
+FF FF 00 00 00 01 03 80 85 19 
+10:58:10.820: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+10:58:10.820: Send Select.req.
+FF FF 00 00 00 01 03 80 85 1A 
+10:58:10.827: Receive Select.rsp.
+FF FF 00 00 00 02 03 80 85 1A 
+10:58:37.913: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+10:58:37.913: Send S1F1(58754331).
+00 00 81 01 00 00 03 80 85 1B 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+10:58:37.914: Receive Data Message.
+00 00 81 02 00 00 03 80 85 1B 
+10:58:37.914: Receive S1F2(58754331).
+00 00 81 02 00 00 03 80 85 1B   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+10:58:37.929: Illegal SECSII Format ...
+10:59:10.832: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+10:59:10.832: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+11:00:10.289: Send Linktest.req.
+FF FF 00 00 00 05 03 80 85 1C 
+11:00:10.289: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 80 85 1C 
+11:00:10.844: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+11:00:10.844: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+11:01:10.852: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+11:01:10.852: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+11:01:25.453: Send Linktest.req.
+FF FF 00 00 00 05 03 80 85 1D 
+11:01:25.453: Receive Linktest.rsp.
+FF FF 00 00 00 06 03 80 85 1D 
+11:02:10.863: Receive Linktest.req.
+FF FF 00 00 00 05 00 00 00 00 
+11:02:10.863: Send Linktest.rsp.
+FF FF 00 00 00 06 00 00 00 00 
+//////////////////////////////////////////////////////////////////////////
+11:10:16.389: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:10:16.390: Send Select.req.
+FF FF 00 00 00 01 03 8B D1 AC 
+11:10:16.393: Receive Select.rsp.
+FF FF 00 00 00 02 03 8B D1 AC 
+11:10:19.138: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:10:19.138: Send S1F1(59494829).
+00 00 81 01 00 00 03 8B D1 AD 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:10:19.154: Illegal SECSII Format ...
+//////////////////////////////////////////////////////////////////////////
+11:11:22.719: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:11:22.719: Send Select.req.
+FF FF 00 00 00 01 03 8C E7 52 
+11:11:22.723: Receive Select.rsp.
+FF FF 00 00 00 02 03 8C E7 52 
+11:11:23.865: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:11:23.865: Send S1F1(59565907).
+00 00 81 01 00 00 03 8C E7 53 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:11:23.868: Illegal SECSII Format ...
+//////////////////////////////////////////////////////////////////////////
+11:14:04.194: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:14:04.194: Send Select.req.
+FF FF 00 00 00 01 03 8F 5D 15 
+11:14:04.198: Receive Select.rsp.
+FF FF 00 00 00 02 03 8F 5D 15 
+11:14:05.570: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:14:05.570: Send S1F1(59727126).
+00 00 81 01 00 00 03 8F 5D 16 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:14:05.574: Receive Data Message.
+00 00 81 02 00 00 03 8F 5D 16 
+11:14:05.574: Receive S1F2(59727126).
+00 00 81 02 00 00 03 8F 5D 16   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+11:14:05.586: Illegal SECSII Format ...
+11:14:10.971: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:14:10.971: Send S1F1(59727127).
+00 00 81 01 00 00 03 8F 5D 17 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:14:10.974: Receive Data Message.
+00 00 81 02 00 00 03 8F 5D 17 
+11:14:10.974: Receive S1F2(59727127).
+00 00 81 02 00 00 03 8F 5D 17   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+11:14:10.986: Illegal SECSII Format ...
+//////////////////////////////////////////////////////////////////////////
+11:14:55.508: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:14:55.508: Send Select.req.
+FF FF 00 00 00 01 03 90 22 87 
+11:15:00.521: T6 Timeout.
+11:15:12.080: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:15:12.080: Send Select.req.
+FF FF 00 00 00 01 03 90 22 88 
+11:15:12.087: Receive Select.rsp.
+FF FF 00 00 00 02 03 90 22 88 
+11:15:13.883: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:15:13.883: Send S1F1(59777673).
+00 00 81 01 00 00 03 90 22 89 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:15:13.884: Receive Data Message.
+00 00 81 02 00 00 03 90 22 89 
+11:15:13.884: Receive S1F2(59777673).
+00 00 81 02 00 00 03 90 22 89   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+11:15:13.898: Illegal SECSII Format ...
+//////////////////////////////////////////////////////////////////////////
+11:16:27.905: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:16:27.905: Send Select.req.
+FF FF 00 00 00 01 03 91 8E 0E 
+11:16:27.911: Receive Select.rsp.
+FF FF 00 00 00 02 03 91 8E 0E 
+11:16:32.762: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:16:32.762: Send S1F1(59870735).
+00 00 81 01 00 00 03 91 8E 0F 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:16:32.763: Receive Data Message.
+00 00 81 02 00 00 03 91 8E 0F 
+11:16:32.763: Receive S1F2(59870735).
+00 00 81 02 00 00 03 91 8E 0F   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+11:16:32.778: Illegal SECSII Format ...
+11:16:49.170: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:16:49.170: Send S1F1(59870736).
+00 00 81 01 00 00 03 91 8E 10 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:16:49.171: Receive Data Message.
+00 00 81 02 00 00 03 91 8E 10 
+11:16:49.171: Receive S1F2(59870736).
+00 00 81 02 00 00 03 91 8E 10   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+11:16:49.186: Illegal SECSII Format ...
+//////////////////////////////////////////////////////////////////////////
+11:17:42.281: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:17:42.282: Send Select.req.
+FF FF 00 00 00 01 03 92 B0 C4 
+11:17:42.288: Receive Select.rsp.
+FF FF 00 00 00 02 03 92 B0 C4 
+11:17:49.485: Receive Data Message.
+00 00 82 29 00 00 00 00 00 09 
+11:17:49.485: Receive S2F41(9).
+00 00 82 29 00 00 00 00 00 09   01 02 41 05 4C 4F 43 41 4C 01   
+00 
+S2F41 W
+<L[2]
+  <A[5] "LOCAL">
+  <L[0]
+  >
+>
+.
+Program takes      0 seconds to log this message.
+11:18:11.802: Receive Data Message.
+00 00 82 29 00 00 00 00 00 0A 
+11:18:11.802: Receive S2F41(10).
+00 00 82 29 00 00 00 00 00 0A   01 02 41 09 50 4F 52 54 5F 54   
+59 50 45 01 02 01 02 41 04 50   6F 72 74 A5 01 01 01 02 41 04   
+54 79 70 65 41 06 4C 6F 61 64   65 72 
+S2F41 W
+<L[2]
+  <A[9] "PORT_TYPE">
+  <L[2]
+    <L[2]
+      <A[4] "Port">
+      <U1[1] 1>
+    >
+    <L[2]
+      <A[4] "Type">
+      <A[6] "Loader">
+    >
+  >
+>
+.
+Program takes      0 seconds to log this message.
+//////////////////////////////////////////////////////////////////////////
+11:20:17.673: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:20:17.673: Send Select.req.
+FF FF 00 00 00 01 03 95 10 5F 
+11:20:17.681: Receive Select.rsp.
+FF FF 00 00 00 02 03 95 10 5F 
+11:20:26.806: Receive Data Message.
+00 00 82 29 00 00 00 00 00 0B 
+11:20:26.806: Receive S2F41(11).
+00 00 82 29 00 00 00 00 00 0B   01 02 41 09 50 4F 52 54 5F 54   
+59 50 45 01 02 01 02 41 04 50   6F 72 74 A5 01 01 01 02 41 04   
+54 79 70 65 41 06 4C 6F 61 64   65 72 
+S2F41 W
+<L[2]
+  <A[9] "PORT_TYPE">
+  <L[2]
+    <L[2]
+      <A[4] "Port">
+      <U1[1] 1>
+    >
+    <L[2]
+      <A[4] "Type">
+      <A[6] "Loader">
+    >
+  >
+>
+.
+Program takes      0 seconds to log this message.
+//////////////////////////////////////////////////////////////////////////
+11:21:35.025: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:21:35.025: Send Select.req.
+FF FF 00 00 00 01 03 96 3B DF 
+11:21:35.031: Receive Select.rsp.
+FF FF 00 00 00 02 03 96 3B DF 
+11:21:56.843: Receive Data Message.
+00 00 82 29 00 00 00 00 00 0D 
+11:21:56.843: Receive S2F41(13).
+00 00 82 29 00 00 00 00 00 0D   01 02 41 05 4C 4F 43 41 4C 01   
+00 
+S2F41 W
+<L[2]
+  <A[5] "LOCAL">
+  <L[0]
+  >
+>
+.
+Program takes      0 seconds to log this message.
+11:22:07.525: Send Separate.req.
+FF FF 00 00 00 09 03 96 3B E0 
+//////////////////////////////////////////////////////////////////////////
+11:31:43.632: QS (HSMS Mode) Ver.2.3.5A Start...
+License Key : 5461CC27-DEB3-44A9-90B0-D89057A2CEE7
+11:31:43.632: Send Select.req.
+FF FF 00 00 00 01 03 9F 86 59 
+11:31:43.640: Receive Select.rsp.
+FF FF 00 00 00 02 03 9F 86 59 
+11:31:44.885: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:31:44.885: Send S1F1(60786266).
+00 00 81 01 00 00 03 9F 86 5A 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:31:44.886: Receive Data Message.
+00 00 81 02 00 00 03 9F 86 5A 
+11:31:44.886: Receive S1F2(60786266).
+00 00 81 02 00 00 03 9F 86 5A   01 02 41 00 41 00 
+S1F2 W
+<L[2]
+  <A[0] "">
+  <A[0] "">
+>
+.
+Program takes      0 seconds to log this message.
+11:31:44.900: Illegal SECSII Format ...
+11:31:48.113: Send Data Message.
+00 00 00 0A 00 00 81 01 00 00 
+11:31:48.113: Send S1F1(60786267).
+00 00 81 01 00 00 03 9F 86 5B 
+S1F1 W
+.
+Program takes      0 seconds to log this message.
+11:31:48.130: Illegal SECSII Format ...
